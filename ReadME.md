@@ -20,7 +20,7 @@ Backend API for a social networking web application. Enable users to create a li
 
 - #### Clone the repository:
 
-<img width="450px" src="">
+<img width="450px" src="./images/Screenshot_Social_Network_gitHub.png">
 
 - #### Open up a terminal window and navigate to the path of the repository directory. Install the Node.js dependencies listed in the package.json, and start the server with:
 

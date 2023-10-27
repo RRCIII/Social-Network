@@ -8,7 +8,7 @@ Backend API for a social networking web application. Enable users to create a li
 
 ## Video Demonstration of Application
 
-- [Click Here]()
+- [Click Here](https://drive.google.com/file/d/1QnRKKk5yrO2D5MGcFSbT8Zk1WYBCLnK_/view)
 
 ## Installation
 
@@ -31,7 +31,7 @@ npm run devStart
 
 - #### Localhost server will be running on port 3001 to test the APIs. Look for comments added to `userRoutes.js` and `thoughtsRoutes.js`, within the `/routes` folder, to provide guidance on the specific paths and their corresponding HTTP methods:
 
-<img width="550px" src="">
+<img width="550px" src="./images/Screenshot_Social_Network_Postman.png">
 
 ## Credits
 
